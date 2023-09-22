@@ -1,0 +1,10 @@
+var first_name="Arpana";
+var last_name="kumari";
+var marital_status="single";
+var country_name="India";
+var age=20;
+console.log(first_name);
+console.log(last_name);
+console.log(marital_status);
+console.log(country_name);
+console.log(age);
